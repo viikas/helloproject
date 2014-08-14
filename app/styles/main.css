@@ -1,0 +1,38 @@
+/*
+    my custom stylesheet
+
+*/
+
+/*  pull in the Bootstrap's stylesheet  */
+@import url(../../bower_components/bootstrap/dist/css/bootstrap.css);
+/*
+    my custom stylesheet
+
+*/
+
+.navbar{
+    margin-bottom: 0px;
+}
+
+
+.container-fluid{
+    background-image: url("../images/row-background.jpg");
+    
+}
+
+.row{
+    
+    padding: 70px 50px;
+    
+    
+}
+
+.hthree{
+    font-size: 24px;
+    color: aliceblue;
+}
+
+
+.signup{
+    padding: 50px;
+}
